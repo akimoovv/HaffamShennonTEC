@@ -93,5 +93,12 @@ public class Main {
         System.out.println("************************************************");
         System.out.println("R'= " + (R2 - R1));
         System.out.println("n'= " + (N1 - N2));
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 }
